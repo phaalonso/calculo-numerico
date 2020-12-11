@@ -1,0 +1,8 @@
+Estou enviado o arquivo agora por prevenção kk
+
+Corrigi todos os erros, e realizei testes dos arquivos. No momento estou
+com problemas no ponto fixo e newton. O ponto fixo está passando do ponto
+de parada, e o newton aparentemente está com algum desvio que faz ele calcular errado.
+
+Pedro Henrique de Almeida Alonso
+3001059
